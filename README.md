@@ -1,3 +1,9 @@
+### Repairing my mobile device
+
+- [Samsung Galaxy Tab S 8.4 Screen Replacement](https://www.youtube.com/watch?v=6nT2t7udVPM)
+
+- [Αλλαγή τζαμιού Samsung Galaxy Tab S 8.4" T700 / T705 - Glass only replacement by TechGuru.gr](https://www.youtube.com/watch?v=4WH4-0L4bcw)
+
 ### Webmails - Login
 
 - [Aol Mail](https://login.aol.com/?done=https%3A%2F%2Fapi.login.aol.com%2Foauth2%2Frequest_auth%3Fclient_id%3Ddj0yJmk9VlN3cDhpNm1Id0szJmQ9WVdrOVdtRm1aMVU1Tm1zbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1mYQ--%26redirect_uri%3Dhttps%253A%252F%252Foidc.mail.aol.com%252Fcallback%26response_type%3Dcode%26scope%3Dmail-r%2520ycal-w%2520openid%2520openid2%2520mail-w%2520mail-x%2520sdps-r%2520msgr-w%26src%3Dmail%26language%3Den-US%26state%3DeyJhbGciOiJSUzI1NiIsImtpZCI6IjZmZjk0Y2RhZDExZTdjM2FjMDhkYzllYzNjNDQ4NDRiODdlMzY0ZjcifQ.eyJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vbWFpbC5hb2wuY29tL19jcXIvbG9naW5TdWNjZXNzPyZzaXRlU3RhdGU9dXYlM0FBT0wlM0JydCUzQVNURCUzQmF0JTNBU05TJTNCbGMlM0Flbl9VUyUzQmxkJTNBbWFpbC5hb2wuY29tJTNCc250JTNBU2NyZWVuTmFtZSUzQnNpZCUzQTkxYzZhZDA0LWFkZWEtNGMyZi04NjY3LTg4M2U3Y2YwMzUwMiUzQnFwJTNBJTNCJmxhbmc9ZW4mbG9jYWxlPVVTIn0.DhqHn6LmtlN5QmYIP8JCdy4TFfHKcTyys5IFnvcaX-rVA7I9nYw0wFOKKwNi86wC3kCmZ73k_IzgWsi5Dc7M74ey5PIz0he-ZzvDps5qe46kM8oxGnJ_U9_qGjOPMrg1ZxyTmC43YcOwDhF-3kvW8WdK2beNCYV6MjyPwq3JIfE%26nonce%3DrpnawT8EzGzRrzcjHd52hu6H6vKeajX0&src=mail&crumb=uSda.DoMQu9&redirect_uri=https%3A%2F%2Foidc.mail.aol.com%2Fcallback&lang=en-US&client_id=dj0yJmk9VlN3cDhpNm1Id0szJmQ9WVdrOVdtRm1aMVU1Tm1zbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1mYQ--&language=en-US)
